@@ -499,7 +499,7 @@ https://docs.google.com/spreadsheets/d/1BrNoouVltMHRGHMzR2s7yO_ycjs9tB9MEw5i7yn0
 - 497: 
 - 498: 
 - 499: 
-- 500: 
+- 500: Phillip_DE :heavy_check_mark:
 - 501: 
 - 502: 
 - 503: 
