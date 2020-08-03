@@ -977,9 +977,9 @@ https://docs.google.com/spreadsheets/d/1BrNoouVltMHRGHMzR2s7yO_ycjs9tB9MEw5i7yn0
 - 975: Cody :gear:
 - 976: Cody :gear:
 - 977: Cody :gear:
-- 978: StarClay666 :gear:
-- 979: StarClay666 :gear:
-- 980: StarClay666 :gear:
+- 978: StarClay666 :heavy_check_mark:
+- 979: StarClay666 :heavy_check_mark:
+- 980: StarClay666 :heavy_check_mark:
 - 981: funky_face :heavy_check_mark:
 - 982: funky_face :heavy_check_mark:
 - 983: funky_face :gear:
